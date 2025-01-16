@@ -1,0 +1,13 @@
+/target/*
+/lib_old/*
+/bin/
+.properties
+/OWL/*
+/mdb/*
+/mdb2/*
+/mdb3/*
+/mdball/*
+/mdbpart/*
+/modelDoc/*
+/moving_db/*
+/moving_db_2/*
